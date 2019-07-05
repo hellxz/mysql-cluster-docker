@@ -1,4 +1,4 @@
-##写在前边
+## 写在前边
 
 搭建MySQL读写分离主从集群，这里未使用`binlog`方式，使用的是`GTID`方式
 对应我的博客<https://www.cnblogs.com/hellxz/p/docker-mysql-cluster.html>
