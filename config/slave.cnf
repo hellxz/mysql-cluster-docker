@@ -1,0 +1,7 @@
+!includedir /etc/mysql/conf.d/
+!includedir /etc/mysql/mysql.conf.d/
+
+[mysqld]
+server-id=2
+gtid-mode=ON
+enforce-gtid-consistency=ON
